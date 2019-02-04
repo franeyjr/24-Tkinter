@@ -14,7 +14,7 @@ def main():
     """ Constructs a GUI that will be used MUCH later to control EV3. """
     # -------------------------------------------------------------------------
     # DONE: 2. Follow along with the video to make a remote control GUI
-    # For every grid() method call you will add a row and a column argument
+    # For every grid()  method call you will add a row and a column argument
     # -------------------------------------------------------------------------
 
     root = tkinter.Tk()
